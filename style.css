@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    background-color:aquamarine ;
+}
+
+header {
+    background-color: greenyellow;
+    color: rgb(255, 0, 0);
+    padding: 10px;
+}
+
+header a{
+    text-decoration: none;
+    background-color: azure;
+    color:blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+
+}
+
+main h1{
+    font-size: 25px;
+    color: rgb(60, 27, 192);
+    text-align:center;
+    border: 5px solid red;
+    border-radius: 10px;
+}
+
+footer{
+    background-color:blanchedalmond;
+    padding: 5px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    background-color: antiquewhite;
+    color: brown;
+    padding: 10px;
+    margin:15px;
+    border-radius: 10px;
+}
+
+main{
+    padding: 25px;
+}
+
+.product {
+    background-color: azure;
+    padding: 25px;
+    border: 10px solid cadetblue;
+    border-radius: 10px;
+}
+
+.section {
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: aquamarine;
+    color: bisque;
+    padding: 10px;
+    border-radius: 10px;
+}
